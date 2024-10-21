@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "Raymond Njagala",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.13.0",
