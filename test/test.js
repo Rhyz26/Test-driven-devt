@@ -1,3 +1,5 @@
+//NAME : RAYMOND NJAGALA
+
 const assert = require("chai").assert;
 const multiply = require("../multiply");
 
